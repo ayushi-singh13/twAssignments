@@ -1,4 +1,4 @@
-package com.thoughtworksPrograd;
+
 
 
 import java.util.Scanner;
