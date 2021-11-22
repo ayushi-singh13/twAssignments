@@ -39,7 +39,7 @@ class Main
             System.out.println("Format mismatch");
         }
         catch (StringIndexOutOfBoundsException e){
-            System.out.println("index is invalid");
+            System.out.println("Index is invalid");
         }
         catch(ArrayIndexOutOfBoundsException e){
             System.out.println("Array index is invalid");
