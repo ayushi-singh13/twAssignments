@@ -35,7 +35,7 @@ class Main
         catch (ArithmeticException e){
             System.out.println("Invalid division");
         }
-        catch(InputMismatchException e){
+        catch(NumberFormatException e){
             System.out.println("Format mismatch");
         }
         catch (StringIndexOutOfBoundsException e){
